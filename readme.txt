@@ -6,7 +6,7 @@ The polynomial_regression.py script included in this repository loads training a
 
 Usage
 Clone the repository to your local machine:
-git clone https://github.com/your_username/polynomial-regression.git
+git clone https://github.com/yashc1712/Polynomial-Regression-using-scikit-learn.git
 
 Ensure you have the necessary dependencies installed:
 Copy code
